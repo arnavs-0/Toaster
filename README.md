@@ -34,7 +34,7 @@ Add this to your module's `build.gradle` file (make sure the version matches the
 ```gradle
 dependencies {
 	...
-	implementation 'com.github.arnavs-0:Toaster:1.0.0'
+	implementation 'com.github.arnavs-0:Toaster:1.0.1'
 }
 ```
 
