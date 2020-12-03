@@ -40,7 +40,7 @@ dependencies {
 
 ## Usage
 
-Each method always returns a `Toast` object, so you can customize the Toast. **DON'T FORGET THE `show()` METHOD!**
+Each method always returns a `Toast` object, so you can customize the Toast. Don't Forget to use the ``` show(); ``` method!
 
 To display a success Toast:
 
