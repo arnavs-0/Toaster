@@ -1,7 +1,7 @@
 # Toaster
 [![](https://jitpack.io/v/arnavs-0/Toaster.svg)](https://jitpack.io/#arnavs-0/Toaster)
 [![Known Vulnerabilities](https://snyk.io/test/github/arnavs-0/Toaster/badge.svg)](https://snyk.io/test/github/arnavs-0/Toaster)
-[![HitCount](http://hits.dwyl.com/arnavs-0/Toaster.svg)](http://hits.dwyl.com/arnavs-0/Toaster)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Farnavs-0%2FToaster&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
