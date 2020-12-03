@@ -40,27 +40,27 @@ dependencies {
 
 Each method always returns a `Toast` object, so you can customize the Toast. **DON'T FORGET THE `show()` METHOD!**
 
-To display an success Toast:
+To display a success Toast:
 
 ``` java
 Toaster.makeText(this, "Success", Toaster.LENGTH_SHORT, Toaster.SUCCESS).show();
 ```
-To display a error Toast:
+To display an error Toast:
 
 ``` java
 Toaster.makeText(this, "Error", Toaster.LENGTH_SHORT, Toaster.ERROR).show();
 ```
-To display an warning Toast:
+To display a warning Toast:
 
 ``` java
 Toaster.makeText(this, "Warning", Toaster.LENGTH_SHORT, Toaster.WARNING).show();
 ```
-To display a info Toast:
+To display an info Toast:
 
 ``` java
 Toaster.makeText(this, "Info", Toaster.LENGTH_SHORT, Toaster.INFO).show();
 ```
-To display the normal Toast:
+To display a normal Toast:
 
 ``` java
 Toaster.makeText(this, "Success", Toaster.LENGTH_SHORT, Toaster.DEFAULT).show();
