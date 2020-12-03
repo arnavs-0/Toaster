@@ -1,5 +1,6 @@
 # Toaster
 [![](https://jitpack.io/v/arnavs-0/Toaster.svg)](https://jitpack.io/#arnavs-0/Toaster)
+[![](https://jitpack.io/v/arnavs-0/Toaster/month.svg)](https://jitpack.io/#arnavs-0/Toaster)
 
 
 Material Design Style Toasts, for Android
