@@ -1,5 +1,7 @@
 # Toaster
 [![](https://jitpack.io/v/arnavs-0/Toaster.svg)](https://jitpack.io/#arnavs-0/Toaster)
+[![Known Vulnerabilities](https://snyk.io/test/github/arnavs-0/Toaster/badge.svg)](https://snyk.io/test/github/arnavs-0/Toaster)
+[![HitCount](http://hits.dwyl.com/arnavs-0/Toaster.svg)](http://hits.dwyl.com/arnavs-0/Toaster)
 
 
 
