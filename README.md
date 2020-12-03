@@ -1,10 +1,15 @@
-
-
 # Toaster
 [![](https://jitpack.io/v/arnavs-0/Toaster.svg)](https://jitpack.io/#arnavs-0/Toaster)
 
 
 Material Design Style Toasts, for Android
+
+### Screenshots
+
+<div align="center">
+	<img src="https://github.com/arnavs-0/Toaster/blob/main/art/toaster.gif?raw=true" width="200">
+	<img src="https://github.com/arnavs-0/Toaster/blob/main/art/toastcollage.jpg?raw=true" width="100">
+</div>
 
 ## Prerequisites
 
